@@ -40,3 +40,4 @@ void loop() {
 
   delay(1000);  // Pequeña pausa entre lecturas
 }
+//Primera versión de código ;9
